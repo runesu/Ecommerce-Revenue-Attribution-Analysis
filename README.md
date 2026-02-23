@@ -26,7 +26,7 @@ To isolate whether the decline was volume-driven or price-driven, indexed perfor
 
 ### Normalized Revenue Decomposition
 
-![Revenue Decomposition](images/normalized_monthly_trend.png)
+![Revenue Decomposition](figures/normalized_monthly_trend.png)
 
 ### Key Findings
 
@@ -47,7 +47,7 @@ Revenue change between Q4 2023 and Q1 2024 was attributed across:
 
 ### Top Revenue Decline Drivers
 
-![Top Revenue Decline Drivers](images/top_rev_drivers.png)
+![Top Revenue Decline Drivers](figures/top_rev_drivers.png)
 
 ### Key Findings
 
@@ -71,7 +71,7 @@ To determine whether user behavior or operational friction contributed to the de
 
 ### Behavioral Comparison
 
-![Behavioral Attribution](images/behavioural_attribution.png)
+![Behavioral Attribution](figures/behavioural_attribution.png)
 
 ### Key Findings
 
@@ -105,7 +105,9 @@ The decline appears demand-driven rather than experience-driven.
 
 ## 6️⃣ Dataset Information
 
-- Dataset: Ecommerce transactional dataset (Currency: Turkish Lira)
+- Dataset: E-commerce transactional dataset (Currency: Turkish Lira)
+- Source: Kaggle
+- URL: https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr/data?select=DATASET_README.md
 - Timeframe: January 2023 – March 2024
 - Granularity: Order-level transaction data
 - Key features include:
@@ -150,4 +152,5 @@ All transformations and aggregations were performed using Python with a reproduc
 ## 🎯 Project Outcome
 
 This project demonstrates a structured, top-down revenue diagnostic framework suitable for commercial analytics, growth strategy, and marketplace performance evaluation.
+
 
