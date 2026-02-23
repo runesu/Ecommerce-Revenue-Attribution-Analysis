@@ -10,7 +10,7 @@ The objective of this analysis is to diagnose the primary drivers of the contrac
 
 ### Quarterly Revenue Trend (Structural View)
 
-![Quarterly Revenue Trend](images/quarterly_trend.png)
+![Quarterly Revenue Trend](figures/quarterly_trend.png)
 
 The quarterly view confirms that Q1 2024 represents a structural decline relative to the prior growth trajectory.
 
@@ -150,3 +150,4 @@ All transformations and aggregations were performed using Python with a reproduc
 ## 🎯 Project Outcome
 
 This project demonstrates a structured, top-down revenue diagnostic framework suitable for commercial analytics, growth strategy, and marketplace performance evaluation.
+
