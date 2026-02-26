@@ -1,4 +1,4 @@
-# 📉 Ecommerce Revenue Contraction Diagnostic (Q1 2024)
+# 📉 Ecommerce Revenue Contraction Diagnostic (Phase I)
 
 ---
 
@@ -152,6 +152,7 @@ All transformations and aggregations were performed using Python with a reproduc
 ## 🎯 Project Outcome
 
 This project demonstrates a structured, top-down revenue diagnostic framework suitable for commercial analytics, growth strategy, and marketplace performance evaluation.
+
 
 
 
